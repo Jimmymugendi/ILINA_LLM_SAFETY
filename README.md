@@ -21,5 +21,5 @@ This repository contains an experiment testing LLM responses to Tier-2, perturbe
 1. Clone the repository:
 
 ```bash
-git clone [<YOUR_REPO_URL>](https://github.com/Jimmymugendi/ILINA_LLM_SAFETY.git)
+git clone https://github.com/Jimmymugendi/ILINA_LLM_SAFETY.git
 cd ILINA_LLM_SAFETY
