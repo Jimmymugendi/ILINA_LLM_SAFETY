@@ -1,6 +1,6 @@
 # ILINA_LLM_SAFETY
 
-This repository contains an experiment testing LLM responses to Tier-2, perturbed, and base prompts in a safety-aware context. The goal is to analyze which prompts trigger model safety filters and which generate usable outputs, focusing on defensive cybersecurity scenarios.
+This repository contains an experiment testing llama2 7B LLM responses to Tier-2, perturbed, and base prompts in a safety-aware context. The goal is to analyze which prompts trigger model safety filters and which generate usable outputs, focusing on defensive cybersecurity scenarios.
 
 ## Project Structure
 
